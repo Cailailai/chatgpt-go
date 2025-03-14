@@ -1,8 +1,8 @@
-# ChatGPT 中文版：国内访问指南手册（支持GPT-4，无需翻墙）【2025年3月12日更新】
+# ChatGPT 中文版：国内访问指南手册（支持GPT-4、GPT-o3、deepseek、grok3，无需翻墙）【2025年3月15日更新】
 
-> 更新时间：2025/03/12
+> 更新时间：2025/03/15
 
-全方位指南，带您轻松使用 ChatGPT 中文版，支持 GPT-4，无需翻墙！  
+全方位指南，带您轻松使用 ChatGPT 中文版，支持 GPT-4、GPT-o3、deepseek、grok3，无需翻墙！  
 
 本文提供详细的 ChatGPT 中文版使用说明，包括镜像站推荐、官网注册教程以及常见问题解答，帮助您快速掌握 ChatGPT 的使用方法。
 
@@ -33,7 +33,7 @@ ChatGPT 中文版 是 OpenAI 为中文用户优化的智能对话工具，专注
 
 | 平台名称         | 支持功能                          | 类型           | 访问链接               |
 |------------------|-----------------------------------|----------------|------------------------|
-| 松鼠AI           | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT           | 网站           | [songshugpt.com](http://songshugpt.com) |
+| 松鼠AI           | GPT-4.0、GPT4.0 turbo、GPT o1、GPT-o3、deepseek、grok3、AI PPT           | 网站           | [songshugpt.com](http://songshugpt.com) |
 | 狗狗 Chat        | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT | 网站           | [gptdog.online](http://gptdog.online) |
 | 智慧猫           | GPT全系列模型                     | 网站     | [gptcat.cc](gptcat.cc)    |
 | 熊猫AI | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT       | 网站          | [ai.panda.xyz](ai.panda.xyz)       |
